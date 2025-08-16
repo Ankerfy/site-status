@@ -1,4 +1,4 @@
 name = "sitsta"
-compatibility_date = "2025-08-15"  # 设置为今天或部署当天的日期
+compatibility_date = "2025-08-10"  # 设置为今天或部署当天的日期
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"  # 构建输出目录
