@@ -1,4 +1,4 @@
-name = "sitsta"
+name = "sitsta" # worker项目名称
 compatibility_date = "2025-08-10"  # 设置为今天或部署当天的日期
-compatibility_flags = ["nodejs_compat"]
+compatibility_flags = ["nodejs_compat"] # 服务兼容控制
 pages_build_output_dir = "dist"  # 构建输出目录
